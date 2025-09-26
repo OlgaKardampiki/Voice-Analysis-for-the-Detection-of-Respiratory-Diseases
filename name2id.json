@@ -1,0 +1,8 @@
+{
+  "healthy": 0,
+  "covid": 1,
+  "asthma": 2,
+  "pneumonia": 3,
+  "cold": 4,
+  "resp_other": 5
+}

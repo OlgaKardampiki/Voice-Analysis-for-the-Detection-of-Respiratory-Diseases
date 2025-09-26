@@ -1,0 +1,11 @@
+[
+  "quality_breathing-deep",
+  "quality_breathing-shallow",
+  "quality_cough-heavy",
+  "quality_cough-shallow",
+  "quality_counting-fast",
+  "quality_counting-normal",
+  "quality_vowel-a",
+  "quality_vowel-e",
+  "quality_vowel-o"
+]
